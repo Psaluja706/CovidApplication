@@ -1,5 +1,5 @@
 # covid19_tracker_app
-It is basicaaly a covid 19 tracker app which shows everythimg related to the corona virus.It is taking real time data from the API.It has Dynamic themes -dark and light mode implemented through dynamic theme plugin in flutter.It also has a special feature of real time searches.
+It is basically a Covid-19 tracker app which shows everythimg related to the corona virus.It is taking real time data from the API.It has Dynamic themes -dark and light mode implemented through dynamic theme plugin in flutter.It also has a special feature of real time searches.
 A new Flutter project.
 
 ## Getting Started
